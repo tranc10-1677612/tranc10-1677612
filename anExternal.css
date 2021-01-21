@@ -1,0 +1,24 @@
+#su {
+  float: right;
+}
+
+.css {
+  font-size: 12pt;
+  font-family: times-new-roman;
+  color: green;
+}
+
+h2 {
+  font-family: fantasy;
+  color: red;
+  opacity: 0.75;
+}
+
+#rounded {
+border-style: solid;
+border-radius: 25px;
+  border: 2px solid #73AD21;
+  padding: 20px;
+  width: 250px;
+  height: 25px;
+}
